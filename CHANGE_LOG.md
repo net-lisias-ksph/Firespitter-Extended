@@ -1,5 +1,8 @@
 # Firespitter Extended :: Change Log
 
+* 2019-1121: 2.1 (Murican_Jeb) for KSP 1.7.3
+	+ 1.8.x compatibility!
+	+ FS4E Delta Elevator slightly remodeled to look better
 * 2019-1016: 2 (Murican_Jeb) for KSP 1.7.3
 	+ IMPORTANT: You need module manager for the skins in this update to work! If you don't like them, check the patches folder and open its README for some uninstallation info.
 	+ Added new skins for my Firespitter parts and the original Firespitter biplane parts. Now you can have more teams other than Tommy and Fritz! These skins include:
