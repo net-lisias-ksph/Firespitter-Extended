@@ -11,7 +11,8 @@ This is an unofficial, non authorised repository for **Firespitter Extended** fo
 
 ## License
 
-MIT
+* [MIT](./LICENSE.MIT) up to Version 2.1
+* [CC BY NC ND 4.0](./LICENSE.CC-BY-NC-ND-4.0) from Version 2.2 and up.
 
 
 ## References
