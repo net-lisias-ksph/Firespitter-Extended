@@ -1,5 +1,8 @@
 # Firespitter Extended :: Change Log
 
+* 2020-1009: 2.2 (Murican_Jeb) for KSP 1.8.1
+	+ Cleaned up all models and fixed many issues with things like shading + bad model topology in general. Essentialy quality control
+	+ The addon is now under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 * 2019-1121: 2.1 (Murican_Jeb) for KSP 1.8.1
 	+ 1.8.x compatibility!
 	+ FS4E Delta Elevator slightly remodeled to look better
