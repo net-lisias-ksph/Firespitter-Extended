@@ -17,7 +17,7 @@ This is an unofficial, non authorised repository for **Firespitter Extended** fo
 
 ## References
 
-* [UltimateFlash15]https://forum.kerbalspaceprogram.com/index.php?/profile/163726-ultimateflash15//)
-	+ [KSP Forum](https://https://forum.kerbalspaceprogram.com/index.php?/topic/184773-*)
+* [UltimateFlash15](https://forum.kerbalspaceprogram.com/index.php?/profile/163726-ultimateflash15//)
+	+ [KSP Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/184773-*)
 	+ [SpaceDock](https://spacedock.info/mod/2156/Firespitter%20Extended)
-	+ [GitHub](https://github.com/UltimateFlash15-Canuck/Firespitter-Extended)
+	+ [GitHub](https://github.com/UltimateFlash15-Canuck/Firespitter-Extended) M.I.A.
